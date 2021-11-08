@@ -9,3 +9,7 @@ Podemos hacer lo que queramos en este repositorio
 ### Git Hub
 
 Cambios realizados
+
+## Trabajo
+
+Seguimos trabajando (clone-local)
